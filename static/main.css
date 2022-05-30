@@ -1,0 +1,248 @@
+body{
+
+background: #2980B9;  
+
+background: -webkit-linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9);  
+
+background: linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9); 
+}
+
+
+*{
+
+
+margin: 0;
+
+padding: 0;
+
+box-sizing: border-box;
+
+margin: center;
+
+}
+
+
+.Bienvenida{
+
+
+text-align: center;
+
+color: white;
+
+}
+
+.nav-link {
+
+text-align: center;
+
+color:black;
+
+
+}
+
+
+.Registro{
+
+
+width: 365px;
+
+
+background: #2980B9;  
+
+background: -webkit-linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9);  
+
+background: linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9); 
+
+
+padding: 30px;
+
+margin: auto;
+
+margin-top: 100px;
+
+border-radius: 4px;
+
+font-family: 'calibri';
+
+color: black;
+
+}
+
+
+.Registro h4 {
+
+
+font-size:22px ;
+
+margin-bottom: 20px;
+
+text-align: center;
+
+
+}
+
+.controls {
+
+width: 100%;
+
+background-color:white;
+
+padding: 10px;
+
+border-radius: 4px;
+
+margin-bottom: 16px;
+
+border: 2px  solid #1f53c5;
+
+font-family:'calibri';
+
+font-size: 18px ;
+
+text-align: center;
+
+}
+
+
+.g-recaptcha{
+
+text-align: center;
+
+color: red;
+
+margin-left: auto;
+
+margin-right: auto;
+
+
+}
+
+
+.Registro p{
+
+height: 40px;    
+
+text-align: center;
+
+font-size: 18px;
+
+color:white;
+
+}
+
+.Registro a {
+
+color: white;
+
+text-decoration: none;
+
+}
+
+.Registro a:hover {
+
+color: white;
+    
+text-decoration: underline;
+    
+}
+
+.Registro .botons {
+
+width: 100%;
+
+background: #1f53c5;
+
+border: none;
+
+padding: 12px;
+
+color:white;
+
+margin: 16px 0;
+
+font-size: 16px;
+
+text-align: center;
+
+}
+
+
+
+.navbar-brand{
+
+
+font-family: sans-serif;
+
+padding: 5px;
+
+margin: 10px 0;
+
+color:white;
+
+width: 20%;
+
+background: #12c2e9;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #f64f59, #c471ed, #12c2e9);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+
+
+font-size: 24px;
+
+border-radius: 4px;
+
+text-align: center;
+
+}
+
+
+/*
+.nav-link{
+
+padding: 5px;
+
+ margin: 10px;
+    
+color:white;
+    
+ width: 100%;
+    
+ background: #E6DADA;  
+ background: -webkit-linear-gradient(to right, #274046, #E6DADA);  
+ background: linear-gradient(to right, #274046, #E6DADA); 
+ 
+    
+    
+border-radius: 4px;
+
+
+font-family: sans-serif;
+
+font-size: 24px;
+
+text-align: center;
+}
+
+*/
+/*
+.Bienvenida{
+
+text-align: center;
+
+padding: 5px;
+
+margin: 10px;
+
+width: 90%;
+
+background: #2980B9;  
+
+background: -webkit-linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9);  
+
+background: linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9); 
+
+border-radius: 4px;
+
+
+}*/
