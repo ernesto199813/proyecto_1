@@ -168,63 +168,7 @@ text-align: center;
 
 
 
-.navbar-brand{
 
-
-font-family: sans-serif;
-
-padding: 5px;
-
-margin: 10px 0;
-
-color:white;
-
-width: 20%;
-
-background: #12c2e9;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #f64f59, #c471ed, #12c2e9);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
-
-
-
-font-size: 24px;
-
-border-radius: 4px;
-
-text-align: center;
-
-}
-
-
-/*
-.nav-link{
-
-padding: 5px;
-
- margin: 10px;
-    
-color:white;
-    
- width: 100%;
-    
- background: #E6DADA;  
- background: -webkit-linear-gradient(to right, #274046, #E6DADA);  
- background: linear-gradient(to right, #274046, #E6DADA); 
- 
-    
-    
-border-radius: 4px;
-
-
-font-family: sans-serif;
-
-font-size: 24px;
-
-text-align: center;
-}
-
-*/
 /*
 .Bienvenida{
 
